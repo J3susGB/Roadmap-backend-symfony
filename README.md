@@ -1,3 +1,36 @@
+# 🛣️ Roadmap Backend Developer – Symfony + Docker
+
+> Desarrollado por Jesús Gómez Beltrán | Junio 2025  
+> 🎓 Graduado en Desarrollo de Aplicaciones Web  
+> 🎯 Objetivo: Convertirme en desarrollador backend experto con Symfony y PHP moderno  
+> 🧭 Método: Formación autodidacta + práctica intensiva + mini-proyectos reales  
+
+---
+
+## 📚 ¿Qué es este repositorio?
+
+Este repositorio documenta mi **camino formativo como backend developer** especializado en PHP y Symfony.  
+Aquí encontrarás:
+
+- ✅ Un **roadmap detallado en formato Markdown**
+- 🧩 Un índice de **mini-proyectos prácticos** desarrollados durante mi aprendizaje
+- 🗂️ Avances semanales y reflexiones en formato `.md`
+- 📌 Recomendaciones de cursos completados y pendientes
+
+---
+
+## 🧩 Estructura del repositorio
+
+roadmap-backend-symfony/
+├── roadmap.md # El plan completo fase por fase
+├── progreso/ # Avances, notas y reflexiones por semana
+│ ├── semana-01.md
+│ ├── semana-02.md
+│ └── ...
+└── mini-proyectos/ # Índice de proyectos con enlaces a sus repos
+├── crud-usuarios.md
+├── api-tareas.md
+└── jwt-auth-api.md
 
 ---
 
@@ -21,6 +54,7 @@ Cada proyecto tiene su propio repositorio individual, documentado y enlazado aqu
 
 | Proyecto | Descripción | Repositorio |
 |----------|-------------|-------------|
+| Fundamentos PHP + SOLID | Proyecto usando PHP MVC y ActiveRecord | [Gestión IMD](https://github.com/J3susGB/web_gestion_imd) |
 | CRUD Usuarios Symfony | CRUD clásico con roles y validaciones | _Próximamente_  |
 | API de Tareas | API REST protegida con JWT | _Próximamente_ |
 | Autenticación JWT | Sistema de login y registro con tokens | _Próximamente_ |
