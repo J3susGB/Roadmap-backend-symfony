@@ -21,7 +21,7 @@ Cada proyecto tiene su propio repositorio individual, documentado y enlazado aqu
 
 | Proyecto | Descripción | Repositorio |
 |----------|-------------|-------------|
-| CRUD Usuarios Symfony | CRUD clásico con roles y validaciones | [Ver repo](https://github.com/jesus-gomez/crud-usuarios-symfony) |
+| CRUD Usuarios Symfony | CRUD clásico con roles y validaciones | _Próximamente_  |
 | API de Tareas | API REST protegida con JWT | _Próximamente_ |
 | Autenticación JWT | Sistema de login y registro con tokens | _Próximamente_ |
 
