@@ -21,16 +21,18 @@ Aquí encontrarás:
 
 ## 🧩 Estructura del repositorio
 
+```
 roadmap-backend-symfony/
 ├── roadmap.md # El plan completo fase por fase
 ├── progreso/ # Avances, notas y reflexiones por semana
-│ ├── semana-01.md
-│ ├── semana-02.md
-│ └── ...
+│   ├── semana-01.md
+│   ├── semana-02.md
+│   └── ...
 └── mini-proyectos/ 
-├── crud-usuarios.md
-├── api-tareas.md
-└── jwt-auth-api.md
+    ├── crud-usuarios.md
+    ├── api-tareas.md
+    └── jwt-auth-api.md
+```
 
 ---
 
