@@ -23,8 +23,8 @@ Aquí encontrarás:
 
 ```
 roadmap-backend-symfony/
-├── roadmap.md # El plan completo fase por fase
-├── progreso/ # Avances, notas y reflexiones por semana
+├── roadmap.md 
+├── progreso/ 
 │   ├── semana-01.md
 │   ├── semana-02.md
 │   └── ...
