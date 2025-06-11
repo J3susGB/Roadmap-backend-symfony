@@ -45,19 +45,19 @@
 
 ### Login
 
-![alt text](mini-proyectos/Fase 1. Gestión IMD/images/image.png)
+![alt text](/mini-proyectos/Fase 1. Gestión IMD/images/image.png)
 
 ### Listar usuarios
 
-![alt text](mini-proyectos/Fase 1. Gestión IMD/images/image-1.png)
+![alt text](/mini-proyectos/Fase 1. Gestión IMD/images/image-1.png)
 
 ### Editar usuario
 
-![alt text](mini-proyectos/Fase 1. Gestión IMD/images/image-2.png)
+![alt text](/mini-proyectos/Fase 1. Gestión IMD/images/image-2.png)
 
 ### Eliminar usuario
 
-![alt text](mini-proyectos/Fase 1. Gestión IMD/images/image-3.png)
+![alt text](/mini-proyectos/Fase 1. Gestión IMD/images/image-3.png)
 
 ---
 
