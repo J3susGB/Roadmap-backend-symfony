@@ -29,9 +29,13 @@ roadmap-backend-symfony/
 │   ├── Fase 2.md
 │   └── ...
 └── mini-proyectos/ 
-    ├── crud-usuarios.md
-    ├── api-tareas.md
-    └── jwt-auth-api.md
+    ├── Fase1-Gestion-IMD
+        ├── images
+        └── README.md
+    ├── Fase2-
+        ├── images
+        └── README.md
+    └── ...
 ```
 
 ---
