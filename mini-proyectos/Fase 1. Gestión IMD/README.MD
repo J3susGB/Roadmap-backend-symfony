@@ -1,4 +1,4 @@
-# 🧩 Nombre del Proyecto
+# 🧩 AGENDA PARTIDOS IMD (API)
 
 > Mini-proyecto desarrollado como parte de mi roadmap para convertirme en Backend Developer experto con Symfony y Docker.
 
