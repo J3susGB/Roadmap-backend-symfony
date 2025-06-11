@@ -25,8 +25,8 @@ Aquí encontrarás:
 roadmap-backend-symfony/
 ├── roadmap.md 
 ├── progreso/ 
-│   ├── semana-01.md
-│   ├── semana-02.md
+│   ├── Fase 1.md
+│   ├── Fase 2.md
 │   └── ...
 └── mini-proyectos/ 
     ├── crud-usuarios.md
