@@ -40,7 +40,7 @@ roadmap-backend-symfony/
 
 | Fase                     | Estado     | Enlace o referencia |
 |--------------------------|------------|---------------------|
-| Fundamentos PHP + SOLID  | ✅ Completado | [Enlace](mini-proyectos/Fase 1. Gestión IMD/README.MD) |
+| Fundamentos PHP + SOLID  | ✅ Completado | [Enlace](/mini-proyectos/Fase1-Gestion-IMD/README.md) |
 | Symfony desde cero       | ⏳ Pendiente| `roadmap.md` |
 | Symfony avanzado + JWT   | ⏳ Pendiente | `roadmap.md` |
 | Docker + PostgreSQL      | ⏳ Pendiente | `roadmap.md` |
