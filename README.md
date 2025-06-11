@@ -27,7 +27,7 @@ roadmap-backend-symfony/
 │ ├── semana-01.md
 │ ├── semana-02.md
 │ └── ...
-└── mini-proyectos/ # Índice de proyectos con enlaces a sus repos
+└── mini-proyectos/ 
 ├── crud-usuarios.md
 ├── api-tareas.md
 └── jwt-auth-api.md
@@ -38,7 +38,7 @@ roadmap-backend-symfony/
 
 | Fase                     | Estado     | Enlace o referencia |
 |--------------------------|------------|---------------------|
-| Fundamentos PHP + SOLID  | ✅ Completado | `roadmap.md` |
+| Fundamentos PHP + SOLID  | ✅ Completado | [Enlace](mini-proyectos/Fase 1. Gestión IMD/README.MD) |
 | Symfony desde cero       | ⏳ Pendiente| `roadmap.md` |
 | Symfony avanzado + JWT   | ⏳ Pendiente | `roadmap.md` |
 | Docker + PostgreSQL      | ⏳ Pendiente | `roadmap.md` |
