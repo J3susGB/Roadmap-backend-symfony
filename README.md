@@ -82,7 +82,7 @@ Estoy especialmente interesado en:
 - Symfony como stack principal
 - Laravel como stack complementario
 
-📫 Puedes contactar conmigo en [LinkedIn](https://www.linkedin.com) o ver más en [mi perfil de GitHub](https://github.com/jesus-gomez)
+📫 Puedes contactar conmigo en [LinkedIn](https://www.linkedin.com) o ver más en [mi perfil de GitHub](https://github.com/J3susGB)
 
 ---
 
