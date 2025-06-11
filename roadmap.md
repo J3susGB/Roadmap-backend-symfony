@@ -20,11 +20,11 @@
 - [🎓 Design Patterns en PHP – Udemy (José Juárez)](https://www.udemy.com/course/diseno-de-software-con-patrones-en-php/)
 
 ### ✅ Checklist:
-- [ ] Tipado fuerte, clases, traits, interfaces
-- [ ] Namespaces y autoload (PSR-4)
-- [ ] Principios SOLID aplicados
-- [ ] Patrones básicos: Factory, Repository
-- [ ] Mini-proyecto: CRUD con PHP puro y SQLite
+- [X] Tipado fuerte, clases, traits, interfaces
+- [X] Namespaces y autoload (PSR-4)
+- [X] Principios SOLID aplicados
+- [X] Patrones básicos: Factory, Repository
+- [X] Mini-proyecto: CRUD con PHP puro y SQLite
 
 ---
 
